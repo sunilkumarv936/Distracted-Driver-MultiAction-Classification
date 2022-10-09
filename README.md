@@ -20,4 +20,4 @@ c7: reaching behind
 c8: hair and makeup
 c9: talking to passenger
 
-
+Note: **Unzipped all files manually into respective Folders
