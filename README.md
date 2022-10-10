@@ -27,5 +27,7 @@ Note: **Unzipped all files manually into respective Folders
 ##########################################################################
 
 Improved Validation Accuracy from 91% to 97% by -
+  
   Increasing no of epochs
+  
   Removing Dropouts in final few layers
